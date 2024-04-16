@@ -166,3 +166,5 @@ Desktop.ini
 # Android
 .csettings
 
+# Folder
+.idea
